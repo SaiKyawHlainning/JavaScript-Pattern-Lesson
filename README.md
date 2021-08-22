@@ -2,7 +2,7 @@
 JavaScript Pattern Lesson
 
 *** Video URL ***
-
+https://youtu.be/b_NMmqUvPTI
 
 *** Gift For You ***
 Source Code: https://github.com/SaiKyawHlainning/JavaScript-Pattern-Lesson.git
